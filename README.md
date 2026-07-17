@@ -2,6 +2,7 @@
 <p align="center">
   <img src="images/nnsurface.png" width="900">
 </p>
+
 **Combining classical quantitative finance with modern deep learning to solve one of the core problems in derivatives pricing.**
 > *A 9-week structured project — from options fundamentals to a trained RL agent that learns when to exercise.*
 ## 🧠 What This Project Does
