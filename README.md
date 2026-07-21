@@ -1,6 +1,6 @@
 # 📈 Deep Learning for American Put Option Pricing
 <p align="center">
-  <img src="images/nnsurface.png" width="900">
+  <img src="images/pricing_surfaces.png" width="900">
 </p>
 
 **Combining classical quantitative finance with modern deep learning to solve one of the core problems in derivatives pricing.**
