@@ -1,6 +1,6 @@
 # American Put Option Pricing using Binomial Trees, Neural Networks and Reinforcement Learning
 
-Final Project for the Winter in Data Science (WiDS) Program
+Final Project for the Seasons of Code Program IIT Bombay 
 
 Author: **Dhruv Natu**  
 Department of Electrical Engineering, IIT Bombay
